@@ -1,5 +1,5 @@
 """
-Clone of 2048 game.
+Clone of the original 2048 game.
 Created by Egbie Anderson Uku
 created on the 29th May 2016
 """
